@@ -1,0 +1,52 @@
+THIET LAP CHUNG THUC CA NHAN
+$ git config --global user.name "User name"
+$ git config --global user.email "Email"
+
+TAO MOT KHO CHUA CODE (REPO)
+$ git init
+
+TAI 1 REPO TREN GITHUB VE LOCAL PC
+$ git clone <Dia chi repo>
+
+LINK THE LOCAL REPOSITORY
+$ git remote add origin [GitHub_Repo_URL]
+
+CAP NHAT THAY DOI
+$ git add .
+
+THEM MO TA 
+$ git commit -m "Mô tả"
+
+SUA MO TA
+$ git commit --amend -m "Mô tả mới"
+
+CAP NHAT LEN SERVER
+$ git push origin <name_branch>
+
+NEU CHUA TON TAI REMOTE TREN SERVER
+$ git remote add origin <remote_url>
+$ git push origin <name_branch>
+
+GOP NHANH
+$ git checkout master
+$ git merge <new_branch>
+
+GOP COMMIT
+$ git rebase -i HEAD
+
+GOP THAY DOI TU REMOTE REPO VE LOCAL PC 
+$ git pull origin master
+
+XEM TRANG THAI DANG HOAT DONG
+$ git status
+
+XEM THAY DOI TRUOC KHI PUSH 
+$ git diff 
+
+LIET KE LICH SU COMMIT DA THUC HIEN
+$ git log -<n> / $ git log --oneline
+
+XOA FILE RA KHOI STAGING AREA 
+$ git reset <file>
+
+
