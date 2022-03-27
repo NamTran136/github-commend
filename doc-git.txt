@@ -1,1 +1,2 @@
-HELLO WORLDtouch doc-git.txt!
+HELLO WORLD!
+touch doc-git.txt
