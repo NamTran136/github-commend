@@ -1,4 +1,4 @@
 hello world
 HELLO WORLD!
 touch doc-git.txt
-
+Merge doc-git.txt
