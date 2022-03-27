@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hello world
-=======
 HELLO WORLD!
 touch doc-git.txt
->>>>>>> doc-git2
+
